@@ -19,28 +19,27 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/rss": "^4.0.0",
-    "@astrojs/sitemap": "^3.0.3",
-    "@eliancodes/brutal-ui": "^0.2.2",
-    "@unocss/astro": "^0.57.2",
-    "astro": "^4.0.2",
-    "satori": "^0.5.0",
+    "@astrojs/rss": "^4.0.5",
+    "@astrojs/sitemap": "^3.1.1",
+    "@eliancodes/brutal-ui": "^0.2.3",
+    "@unocss/astro": "^0.58.5",
+    "astro": "^4.4.3",
+    "satori": "^0.10.13",
     "satori-html": "^0.3.2"
   },
   "devDependencies": {
-    "@iconify-json/logos": "^1.1.37",
-    "@iconify-json/uil": "^1.1.5",
-    "@pandacss/astro": "^0.20.1",
-    "@pandacss/dev": "^0.20.1",
+    "@iconify-json/logos": "^1.1.42",
+    "@iconify-json/uil": "^1.1.8",
+    "@pandacss/dev": "^0.32.1",
     "@resvg/resvg-js": "^2.6.0",
-    "@typescript-eslint/parser": "^6.9.1",
-    "@unocss/reset": "^0.57.2",
-    "eslint": "^8.53.0",
-    "eslint-plugin-astro": "^0.29.1",
+    "@typescript-eslint/parser": "^7.0.2",
+    "@unocss/reset": "^0.58.5",
+    "eslint": "^8.57.0",
+    "eslint-plugin-astro": "^0.31.4",
     "eslint-plugin-jsx-a11y": "^6.8.0",
-    "prettier": "^3.0.3",
-    "prettier-plugin-astro": "^0.12.1",
-    "sharp": "^0.32.6",
-    "unocss": "^0.57.2"
+    "prettier": "^3.2.5",
+    "prettier-plugin-astro": "^0.13.0",
+    "sharp": "^0.33.2",
+    "unocss": "^0.58.5"
   }
 }
